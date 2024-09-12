@@ -1,0 +1,6 @@
+com\mycompany\online_reservation_system\DBConnection.class
+LoginServlet.class
+CancellationServlet.class
+ReservationServlet.class
+com\mycompany\online_reservation_system\JakartaRestConfiguration.class
+com\mycompany\online_reservation_system\resources\JakartaEE10Resource.class

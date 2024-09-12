@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reservation</title>
+</head>
+<body>
+    <h2>Make a Reservation</h2>
+    <form action="ReservationServlet" method="POST">
+        Train Number: <input type="text" name="train_number" required><br>
+        Class Type: <input type="text" name="class_type" required><br>
+        Date of Journey: <input type="date" name="date_of_journey" required><br>
+        From: <input type="text" name="from_place" required><br>
+        To: <input type="text" name="to_place" required><br>
+        <input type="submit" value="Reserve">
+    </form>
+</body>
+</html>
